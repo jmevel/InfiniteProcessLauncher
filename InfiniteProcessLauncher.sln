@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfiniteProcessLauncher", "InfiniteProcessLauncher.csproj", "{1ABAF891-7DF3-44EE-97EE-51C20A7390FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ABAF891-7DF3-44EE-97EE-51C20A7390FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABAF891-7DF3-44EE-97EE-51C20A7390FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABAF891-7DF3-44EE-97EE-51C20A7390FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABAF891-7DF3-44EE-97EE-51C20A7390FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B6EF422-780B-44A0-92DF-607FE4D5922A}
+	EndGlobalSection
+EndGlobal
